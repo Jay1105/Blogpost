@@ -1,8 +1,10 @@
 # Blogpost
 
-Blogpost is a website where one can create, delete, view blogs.
+Blogpost is a web application for creating, deleting, and viewing blogs posted by users.
 
-Tech Stack of this project mainly consists of Node, Express, MongoDB, Mongoose, EJS, CSS.
+Frontend: HTML, CSS, Javascript
+
+Backend: Node.js, Express, Mongoose, MongoDB.
 
 ### Home Page
 <img width="1440" alt="image" src="https://github.com/Jay1105/Blogpost/assets/75968475/16c62fb7-bd3c-41ab-8610-5dcc64c37dc3">
